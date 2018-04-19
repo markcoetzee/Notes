@@ -1,5 +1,6 @@
 
 # R
+*** With the advent of ‘modern’ GIS software, most people want to point and click their way through life. 
 
 *copied from web
 
