@@ -22,6 +22,7 @@
 
 ### Links
 https://www.r-spatial.org/
+https://cengel.github.io/rspatial/
 
 ### Books
 https://geocompr.robinlovelace.net/
