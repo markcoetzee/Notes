@@ -22,4 +22,7 @@
 ### Links
 https://www.r-spatial.org/
 
+### Books
+https://geocompr.robinlovelace.net/
+
 # Python
