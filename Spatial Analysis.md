@@ -19,5 +19,7 @@
 - rasterVis: a package that can be used to visualize raster data. Provides more functionality and customization than base plot for rasters.
 - mapview: provides functions to create interactive visualisations of spatial data.
 
+### Links
+https://www.r-spatial.org/
 
 # Python
