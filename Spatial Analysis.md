@@ -23,7 +23,7 @@
 ### Links
 https://www.r-spatial.org/
 https://cengel.github.io/rspatial/
-
+CRAN Task View: Analysis of Spatial Data: https://cran.r-project.org/web/views/Spatial.html
 ### Books
 https://geocompr.robinlovelace.net/
 
