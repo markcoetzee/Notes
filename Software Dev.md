@@ -12,3 +12,5 @@ https://github.com/swcarpentry/good-enough-practices-in-scientific-computing
 https://jstaf.github.io/r-data-science/
 
 https://jstaf.github.io/2018/03/25/atom-ide.html
+
+https://github.com/swcarpentry/2014-04-14-pycon-r/blob/gh-pages/lessons/misc-git/git-and-github/instructor_notes.md
